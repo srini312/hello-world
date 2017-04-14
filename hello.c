@@ -1,5 +1,5 @@
 //Test program hello program
-//By srini
+//By srini for learning git
 #include <stdio.h>
 
 int main()
